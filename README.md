@@ -1,3 +1,10 @@
+> 🧠 Shellmind Modules — claim-trace-based AGI 模組核心
+
+開源模組來自 Shellmind 封殼系統，支援 AGI 任務 trace-based 決策流程、模組對齊與治理架構。此為模組核心開放版本，可自由拓展至任務自動化與治理模擬應用。
+
+🔗 [📦 查看 Release v0.1](https://github.com/你的repo/releases)
+
+---
 # shellmind-modules
 Open modular components from a claim-trace based AGI-like architecture.
 # 🧠 Shellmind Modules
